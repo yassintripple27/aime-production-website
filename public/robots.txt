@@ -1,0 +1,6 @@
+```text
+User-agent: *
+Allow: /
+
+Sitemap: https://aime-production-website.onrender.com/sitemap.xml
+```
